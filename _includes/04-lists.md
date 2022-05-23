@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# adding my favourites in the form of unordered list 🤦
+- singing
+- dancing
+- swimming
