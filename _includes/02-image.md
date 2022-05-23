@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![my profile image](https://avatars.githubusercontent.com/u/105625147?s=400&v=4)
